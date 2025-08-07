@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.log
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+venv/
+*.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter Notebook Checkpoints (if any)
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment & config files
+.env
+.env.*
+
+# Pip dependency files
+pip-log.txt
+
+# Compiled files
+*.so
